@@ -15,6 +15,7 @@
 - [Unnati Mishra] (https://github.com/unnati110302)
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
+- [Oswaldo Gonzalez (https://github.com/oswglezmvd)]
 - [Joon](https://github.com/Joon-99)
 - [Estefan Andres](https://github.com/EstefanAC)
 - [Saksham Shekher](https://github.com/OshekharO)
